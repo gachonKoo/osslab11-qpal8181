@@ -5,5 +5,5 @@ c = utils.pythagoras(a, b)
 print('c =', c)
 
 r = 10
-area = utils.circle(a, b)
+area = utils.circle(r)
 print('area =',area)
